@@ -48,3 +48,5 @@ https://hexlet.io — текст простой ссылки станет кли
 это тупая цитата
 
 ![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
+
+![картиночка](https://a.lmcdn.ru/product/M/P/MP002XW1KUQI_33268384_2_v1_2x.jpg)
