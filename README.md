@@ -49,4 +49,6 @@ https://hexlet.io — текст простой ссылки станет кли
 
 ![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
 
+Иногда нужно добавить кусок кода `function(12);` в обычную строчку текста.
+
 ![картиночка](https://a.lmcdn.ru/product/M/P/MP002XW1KUQI_33268384_2_v1_2x.jpg)
